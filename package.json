@@ -1,0 +1,16 @@
+{
+  "name": "detragoemtrago",
+  "version": "1.0.0",
+  "description": "Reposta toda vez que alguem usar a #cerveka",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twit": "^2.2.11"
+  }
+}
